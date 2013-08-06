@@ -1,6 +1,6 @@
 __author__ = 'Scott Davey'
 
-from BFHRCONPython.BFHServer import *
+from BFHRCON.BFHServer import *
 import socket
 
 
